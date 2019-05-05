@@ -1,0 +1,31 @@
+.titleSize {
+	font-size: 90px
+}
+
+body {
+	background-image: url(https://images2.alphacoders.com/576/576608.jpg); 
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+    }
+div {
+	margin-top: 50px;
+	border: 10spx solid gray;
+}
+
+.Skills {
+	font-size: 20px;
+	background-color: #d8d4dd;
+	font-family: Inconsolata;
+}
+h3 {
+	color: #359dff;
+}
+
+.experience {
+	font-family: Arial
+	background-color: #b0d3f4;
+}
+
+.contactInfo {
+	color: black;
+}
